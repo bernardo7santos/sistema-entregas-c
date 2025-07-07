@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rota.h": "c",
+        "local.h": "c",
+        "veiculo.h": "c"
+    }
+}
