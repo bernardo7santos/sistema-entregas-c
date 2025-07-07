@@ -3,7 +3,7 @@ Simulador de sistema de entregas em C com cadastro de locais, pedidos, veículos
 
 # 📦 Sistema de Entregas - Projeto em C
 
-Este é um projeto acadêmico em linguagem C que simula um **sistema de entregas**, com funcionalidades para cadastro e gerenciamento de locais, veículos, pedidos e rotas. Foi desenvolvido com foco em práticas de estrutura de dados, modularização e persistência em arquivos `.dat`.
+Este é um projeto pessoal em linguagem C que simula um **sistema de entregas**, com funcionalidades para cadastro e gerenciamento de locais, veículos, pedidos e rotas. Foi desenvolvido com foco em práticas de estrutura de dados, modularização e persistência em arquivos `.dat`.
 
 ## 🧠 Funcionalidades
 
