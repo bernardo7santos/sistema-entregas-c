@@ -14,19 +14,4 @@ Este é um projeto acadêmico em linguagem C que simula um **sistema de entregas
 - Geração automática de dados para testes.
 - Módulo principal de execução e teste de funcionalidades.
 
----
 
-## 🧪 Como Executar o Sistema de Logística
-
-### 💻 Passo a passo no VSCode
-
-1. Abra o **Visual Studio Code** na raiz do projeto.  
-2. Abra o terminal (`Ctrl + '`).
-
-3. Navegue até a pasta do sistema, compile e execute:
-
-cd sistema_entregas
-
-gcc src/main.c src/arquivo.c src/local.c src/veiculo.c src/pedido.c src/rota.c -Iincludes -o sistema_entregas
-
-./sistema_entregas
